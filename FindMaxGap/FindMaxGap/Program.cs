@@ -6,15 +6,7 @@ namespace FindMaxGap
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine(FindGap(15)); // 
-
-            double square = Math.Pow(2,2);
-
-            Console.WriteLine("Result: " + square);
-
-            Console.WriteLine($"Result: {square}");
-
-            Console.WriteLine("Result: {0}", square);
+            Console.WriteLine(FindGap(15));
         }
 
         public static int FindGap(int number)
