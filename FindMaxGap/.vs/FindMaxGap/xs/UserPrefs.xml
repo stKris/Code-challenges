@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{648AD0F3-D176-482B-A18A-BFC4DB14292B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="FindMaxGap/Program.cs">
     <Files>
-      <File FileName="FindMaxGap/Program.cs" Line="1" Column="1" />
+      <File FileName="FindMaxGap/Program.cs" Line="9" Column="41" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.FindMaxGap PreferredExecutionTarget="MonoDevelop.Default" />

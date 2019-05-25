@@ -4,3 +4,9 @@
 /Users/Vilche/Projects/rec/FindMaxGap/obj/x86/Debug/FindMaxGap.csproj.CoreCompileInputs.cache
 /Users/Vilche/Projects/rec/FindMaxGap/obj/x86/Debug/FindMaxGap.exe
 /Users/Vilche/Projects/rec/FindMaxGap/obj/x86/Debug/FindMaxGap.pdb
+/Users/Vilche/Projects/Code-Challenges/FindMaxGap/FindMaxGap/bin/Debug/FindMaxGap.exe
+/Users/Vilche/Projects/Code-Challenges/FindMaxGap/FindMaxGap/obj/x86/Debug/FindMaxGap.csprojAssemblyReference.cache
+/Users/Vilche/Projects/Code-Challenges/FindMaxGap/FindMaxGap/obj/x86/Debug/FindMaxGap.csproj.CoreCompileInputs.cache
+/Users/Vilche/Projects/Code-Challenges/FindMaxGap/FindMaxGap/bin/Debug/FindMaxGap.pdb
+/Users/Vilche/Projects/Code-Challenges/FindMaxGap/FindMaxGap/obj/x86/Debug/FindMaxGap.exe
+/Users/Vilche/Projects/Code-Challenges/FindMaxGap/FindMaxGap/obj/x86/Debug/FindMaxGap.pdb
