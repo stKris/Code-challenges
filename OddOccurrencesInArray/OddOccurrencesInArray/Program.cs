@@ -65,7 +65,7 @@ namespace OddOccurrencesInArray
             return 0;
         }
 
-        public static int Solution3(int[] arr) // dict/hash
+        public static int Solution3(int[] arr) //dict
         {
             Dictionary<int, int> dict = new Dictionary<int, int>();
 
