@@ -11,7 +11,7 @@ namespace CyclicRotation
 
             //Console.WriteLine(arr.Length);
 
-            int[] result = ShiftElementsToRight(arr, 2);
+            int[] result = ShiftElementsToRight(arr, 4);
 
             foreach (var item in result)
             {
